@@ -71,5 +71,5 @@ make
 /path/to/arm-qmake myqtwork.pro && make
 ```
 
-编译产物传到开发板即可。
+编译产物传输到开发板
 
